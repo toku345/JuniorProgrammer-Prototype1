@@ -1,4 +1,7 @@
 
+Assets/Course Library/
+Assets/Course Library.meta
+
 # Created by https://www.toptal.com/developers/gitignore/api/osx,visualstudiocode,unity
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,visualstudiocode,unity
 
@@ -9,7 +12,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
