@@ -400,6 +400,7 @@ MonoBehaviour:
   speed: 12
   turnSpeed: 1
   horizontalInput: 0
+  forwardInput: 0
 --- !u!54 &350449821
 Rigidbody:
   m_ObjectHideFlags: 0
