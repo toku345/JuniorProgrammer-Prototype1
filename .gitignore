@@ -1,6 +1,7 @@
-
 Assets/Course Library/
 Assets/Course Library.meta
+Assets/Scripts/WebGLPreBuildProcessing.cs
+Assets/Scripts/WebGLPreBuildProcessing.cs.meta
 
 # Created by https://www.toptal.com/developers/gitignore/api/osx,visualstudiocode,unity
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,visualstudiocode,unity
