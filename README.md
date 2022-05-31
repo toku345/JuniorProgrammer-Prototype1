@@ -2,6 +2,10 @@
 
 Unity Learn の [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) Pathway に含まれる Create with Code 1 の [Unit 1](https://learn.unity.com/project/unit-1-driving-simulation) に出てくる `Prototype 1` 用リポジトリ
 
+![play image](https://play-static.unity.com/20220531/p/images/a2727b6b-6aeb-4db6-b218-995a95474cda_Pasted_Image_2022_06_01_7_07.png)
+
+- [ここでプレイできるよ - play.unity.com](https://play.unity.com/mg/other/super-simple-driving-simulator)
+
 ## 必要な Asset
 
 - Prototype 1 Starter Files に含まれる `Prototype-1_Starter-Files.unitypackage`
