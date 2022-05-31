@@ -4,6 +4,7 @@ Assets/Scripts/WebGLPreBuildProcessing.cs
 Assets/Scripts/WebGLPreBuildProcessing.cs.meta
 WebGLBuilds
 ProjectSettings/Packages/com.unity.connect.share/Settings.json
+connectwebgl.zip
 
 # Created by https://www.toptal.com/developers/gitignore/api/osx,visualstudiocode,unity
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,visualstudiocode,unity
