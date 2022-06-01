@@ -2,19 +2,39 @@
 
 Unity Learn の [Junior Programmer](https://learn.unity.com/pathway/junior-programmer) Pathway に含まれる Create with Code 1 の [Unit 1](https://learn.unity.com/project/unit-1-driving-simulation) に出てくる `Prototype 1` 用リポジトリ
 
+## Drive Simulator (Prototype 1)
+
 ![play image](https://play-static.unity.com/20220531/p/images/a2727b6b-6aeb-4db6-b218-995a95474cda_Pasted_Image_2022_06_01_7_07.png)
 
-- [ここでプレイできるよ - play.unity.com](https://play.unity.com/mg/other/super-simple-driving-simulator)
+[ここでプレイできるよ - play.unity.com](https://play.unity.com/mg/other/super-simple-driving-simulator)
 
-## 必要な Asset
+### Scene
+
+- Assets/Scenes/Prototype 1
+
+### 必要な Asset
 
 - Prototype 1 Starter Files に含まれる `Prototype-1_Starter-Files.unitypackage`
   - Starter Files と Asset Import 方法は[こちら](https://learn.unity.com/tutorial/set-up-your-first-project-in-unity#5cca0230edbc2a635ca5d6d2)を参照のこと
 
+## Steer though obstacles in the sky (Challenge 1)
+
+![play image]()
+
+### Scene
+
+- Assets/Scenes/Challenge 1
+
+### 必要な Asset
+
+- Challenge 1 Starter Files に含まれる `Challenge-1_Start.unitypackage`
+  - Starter Files は[こちら](https://learn.unity.com/tutorial/challenge-1-steer-a-plane-through-obstacles-in-the-sky)の画面の Materials からダウンロードしてね
+
 ## WebGL 向けの Build ができない場合
 
 macOS Monterey 12.3 以降で Python 2.7 が削除された
-https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes
+
+<https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes>
 
 その影響で WebGL 向けの Build が失敗するようになった...
 
